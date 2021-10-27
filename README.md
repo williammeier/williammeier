@@ -1,28 +1,29 @@
 # Hi there, Welcome to my profile
 I'm a FrontEnd Developer with 1+ years of experience 😉
 
-- 👨‍💻 I’m currently working on <a href="https://www.usios.com" target="_blank">Usios Sistemas</a>
+- 👨‍💻 I’m currently working on <a href="https://www.usios.com" target="_blank" style="text-decoration: none">Usios Sistemas</a>
 - 💬 I'm open to work opportunities
 
 ##
 
 <div>
-  <a href="https://github.com/williammeier" style="text-decoration:none">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williammeier&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williammeier&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/williammeier" style="text-decoration:none !important">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williammeier&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williammeier&layout&langs_count=7&theme=vue-dark"/>
+  </a>
 </div>
   
 <div> <br>
    <a href="https://wa.me/5549999235930" target="_blank" style="text-decoration: none">
      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://instagram.com/williammeier01" target="_blank">
+  <a href="https://instagram.com/williammeier01" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href = "mailto:william.meier@outlook.com">
+  <a href = "mailto:william.meier@outlook.com" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/williammeier01" target="_blank">
+  <a href="https://www.linkedin.com/in/williammeier01" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
@@ -57,7 +58,7 @@ I'm a FrontEnd Developer with 1+ years of experience 😉
   
   
 ##
-### 👨‍💻 Also I'm currently learging<br>
+### 👨‍💻 I'm also currently learning<br>
   
 <div>
   <img src="https://img.shields.io/badge/-Vuejs-34495E?style=for-the-badge&logo=vue.js&logoColor=fff" height="30px"/> <!-- VueJs -->
@@ -65,8 +66,9 @@ I'm a FrontEnd Developer with 1+ years of experience 😉
 </div>
 
 ##
-I'm have algo an personal portfolio. Click <a href="https://github.io/williammeier/williammeier.me">here</a> to see there
-
+I'm have algo an personal portfolio. Click <a href="https://williammeier.github.io/williammeier.me/" target="_blank" style="text-decoration: none">here</a> to see there
+##
+  
 <div>
   
   ![Snake animation](https://github.com/williammeier/williammeier/blob/output/github-contribution-grid-snake.svg)
