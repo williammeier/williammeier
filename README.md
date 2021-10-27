@@ -29,7 +29,7 @@ I'm a FrontEnd Developer with 1+ years of experience 😉
 </div>
 
 ##
-### 👨‍💻 I'm have Knowledges and experience with<br>
+### 👨‍💻 I'm have Knowledge and experience with<br>
 <div>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" height="30px"/> <!-- HTML5 -->
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="30px"/> <!-- CC -->
