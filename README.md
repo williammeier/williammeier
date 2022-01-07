@@ -1,48 +1,44 @@
-# Hi there, Welcome to my profile
-I'm a FrontEnd Developer with 1+ years of experience 😉
+# About me
+Hi there, Welcome to my profile!
+I'm William Meier and i'm a Web Developer 😉. I'm have experience in front-end with HTML, CSS, JS and also a back-end Knowledge in PHP and SQL
 
-- 👨‍💻 I’m currently working on <a href="https://www.usios.com" target="_blank" style="text-decoration: none">Usios Sistemas</a>
-- 💬 I'm open to work opportunities
-
-##
 
 <div>
-  <a href="https://github.com/williammeier" style="text-decoration:none !important">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williammeier&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williammeier&layout&langs_count=7&theme=vue-dark"/>
-  </a>
-</div>
-  
-<div> <br>
    <a href="https://wa.me/5549999235930" target="_blank" style="text-decoration: none">
      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/williammeier01" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
   <a href="https://instagram.com/williammeier01" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href = "mailto:william.meier@outlook.com" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/williammeier01" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
 </div>
 
 ##
-### 👨‍💻 I'm have Knowledge and experience with<br>
+
+<div>
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=williammeier&include_all_commits=true&hide_border=true&theme=dark"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=williammeier&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williammeier&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+</div>
+   
+<br>
+
+##
+#### I'm have Knowledge and experience with<br>
 <div>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" height="25px"/> <!-- HTML5 -->
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="25px"/> <!-- CC -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" height="25px"/> <!-- JavaScript -->
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff" height="25px"/> <!-- jQuery -->
-</div>
-<div>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff" height="25px"/> <!-- Bootstrap -->
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff" height="25px"/> <!-- Sass -->
-  <img src="https://img.shields.io/badge/-Material%20Design%20Icons-0081CB?style=for-the-badge&logo=material-design-icons&logoColor=fff" height="25px"/> <!-- MaterialIcons -->
-  <img src="https://img.shields.io/badge/-Font%20Awesome-339af0?style=for-the-badge&logo=font-awesome&logoColor=fff" height="25px"/> <!-- Font Awesome -->
   </div>
 <div>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" height="25px"/> <!-- JavaScript -->
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" height="25px"/> <!-- PHP -->
 </div>
 <div>
@@ -55,22 +51,9 @@ I'm a FrontEnd Developer with 1+ years of experience 😉
   <img src="https://img.shields.io/badge/-GitLab-330F63?style=for-the-badge&logo=gitlab" height="25px"/> <!-- GitLab -->
 </div>
 
-  
-  
-##
-### 👨‍💻 I'm also currently learning<br>
+#### I'm also currently learning<br>
   
 <div>
   <img src="https://img.shields.io/badge/-Vuejs-34495E?style=for-the-badge&logo=vue.js&logoColor=fff" height="25px"/> <!-- VueJs -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=fff" height="25px"/> <!-- VueJs -->
-</div>
-
-##
-I'm have algo an personal portfolio. Click <a href="https://williammeier.github.io/williammeier.me/" target="_blank" style="text-decoration: none">here</a> to see there
-##
-  
-<div>
-  
-  ![Snake animation](https://github.com/williammeier/williammeier/blob/output/github-contribution-grid-snake.svg)
-
 </div>
