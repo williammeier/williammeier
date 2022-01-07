@@ -21,9 +21,11 @@ I'm William Meier and i'm a Web Developer 😉. I'm have experience in front-end
 ##
 
 <div>
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=williammeier&include_all_commits=true&hide_border=true&theme=dark"/>
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=williammeier&include_all_commits=true&hide_border=true&theme=dark"/>
+  <br>
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=williammeier&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williammeier&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+  <br>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williammeier&layout=compact&custom_title=Most used languages by LOCs&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </div>
    
 <br>
