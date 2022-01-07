@@ -31,7 +31,7 @@ I'm William Meier and i'm a Web Developer 😉. I'm have experience in front-end
 <br>
 
 ##
-#### I'm have Knowledge and experience with<br>
+### I'm have Knowledge and experience with<br>
 <div>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" height="25px"/> <!-- HTML5 -->
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="25px"/> <!-- CC -->
@@ -53,7 +53,7 @@ I'm William Meier and i'm a Web Developer 😉. I'm have experience in front-end
   <img src="https://img.shields.io/badge/-GitLab-330F63?style=for-the-badge&logo=gitlab" height="25px"/> <!-- GitLab -->
 </div>
 
-#### I'm also currently learning<br>
+### I'm also currently learning<br>
   
 <div>
   <img src="https://img.shields.io/badge/-Vuejs-34495E?style=for-the-badge&logo=vue.js&logoColor=fff" height="25px"/> <!-- VueJs -->
