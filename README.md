@@ -22,4 +22,4 @@ Feel free to reach out if you want to collaborate on a project, have any questio
 
 Looking forward to connecting with you!
 
-![Profile views](https://gpvc.arturio.dev/williammeier)
+![Profile views](https://komarev.com/ghpvc/?username=williammeier)
