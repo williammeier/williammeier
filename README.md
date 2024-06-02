@@ -22,7 +22,7 @@ Feel free to reach out if you want to collaborate on a project, have any questio
 
 Take a look in my portfolio
 
-- [Portfolio](https://medium.com/@williammeier) 👈
+- [Portfolio](https://williammeier.github.io/portfolio) 👈
 
 Looking forward to connecting with you!
 
