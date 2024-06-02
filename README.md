@@ -20,6 +20,10 @@ Feel free to reach out if you want to collaborate on a project, have any questio
 - [LinkedIn](https://www.linkedin.com/in/williammeier01/)
 - [Email](mailto:william.meier@outlook.com)
 
+Take a look in my portfolio
+
+- [Portfolio](https://medium.com/@williammeier) 👈
+
 Looking forward to connecting with you!
 
 ![Profile views](https://komarev.com/ghpvc/?username=williammeier)
